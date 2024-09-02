@@ -1,0 +1,9 @@
+$ cd blog
+$ git init
+$ git status
+$ git add .
+$ git status
+$ git commit -m "first commit"
+$ git remote add origin git@github.com:EigoTamura/Eigo0630.git
+$ git push origin main
+$ git log
